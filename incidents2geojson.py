@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-
+import os
 from os import path, listdir
 import json
 
-json_dir = path.abspath('../jsonIncidents2015')
+json_dir = path.abspath('jsonIncidents2015')
 files = listdir(json_dir)
 
 def convert2geojson(filepath, filename):

@@ -1,0 +1,3 @@
+[submodule "jsonIncidents2015"]
+	path = jsonIncidents2015
+	url = git@github.com:openpgh/jsonIncidents2015.git
