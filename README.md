@@ -9,4 +9,4 @@ To get the json data, make sure to clone recursively by running ``` git clone --
 This will probably/should be automated in the future, but for now the easiest way is to ``` git fetch ``` + ``` git pull ``` from jsonIncidents2015 subdirectory. If you notice the repo doesn't have the newest data, feel free to open a pull request.
 
 ### Requirements
-Includes ipython for development. Install by running from the project directory: ``` pip install requirements.txt ```
+Includes ipython notebook for development. Install by running from the project directory: ``` pip install requirements.txt ```
